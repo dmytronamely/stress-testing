@@ -9,7 +9,8 @@
 
 ##### Install dependencies
 ```bash
-brew install ab gnuplot -y
+brew install ab
+brew install gnuplot
 ```
 
 ##### Run tests
